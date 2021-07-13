@@ -22,7 +22,7 @@ task("accounts", "Prints the list of accounts", async () => {
  */
 module.exports = {
   solidity: {
-    compilers: [{version: "0.8.3"}]
+    compilers: [{version: "0.8.6"}]
   },
   networks: {
     localhost: {
